@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "d76af7f1-3e18-42b9-9ad0-3438631af0f3",
+            "Value": {
+                "id": "3027e93b-05b0-42c1-9abf-89d8c952d9e3",
+                "resourcePath": "scripts\\spawn_off_camera\\spawn_off_camera.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e0f472ce-1a1d-42f4-848d-fbecec62e42a",
             "Value": {
                 "id": "a35bdf4f-be59-4f32-8304-17889b8ba7f6",
