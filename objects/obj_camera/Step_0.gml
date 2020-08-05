@@ -1,5 +1,6 @@
 /// @desc follow the player
 
+#region //Follow the Player
 if(instance_exists(target)){
 	global.cameraX = target.x - (global.cameraWidth/2);
 	global.cameraY = target.y - (global.cameraHeight/2);
@@ -9,4 +10,17 @@ if(instance_exists(target)){
 }
 
 camera_set_view_pos(view_camera[0], global.cameraX, global.cameraY);
+#endregion
 
+layer_x("Parallax_0", global.cameraX*.98);
+layer_y("Parallax_0", global.cameraY*.98);
+
+
+layer_x("Parallax_0", global.cameraX*.92);
+layer_y("Parallax_0", global.cameraY*.92);
+
+layer_x("Parallax_0", global.cameraX*.9);
+layer_y("Parallax_0", global.cameraY*.9);
+
+layer_x("Parallax_0", global.cameraX*.88);
+layer_y("Parallax_0", global.cameraY*.88);
