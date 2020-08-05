@@ -1,4 +1,6 @@
 /// @desc Create Event
+event_inherited();
+
 sprite_index = choose(sAsteroidHuge,sAsteroidMedium,sAsteroidSmall);
 
 direction = irandom_range(0,359);

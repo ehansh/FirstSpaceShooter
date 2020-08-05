@@ -12,9 +12,7 @@ if(keyboard_check(vk_up)){
 }
 
 if(keyboard_check_pressed(vk_space)){
-	audio_play_sound(snd_zap,1, false);
-	var _bullet = instance_create_layer(x,y,"Instances",oBullet);
-	_bullet.direction = image_angle;
+	create_bullet(image_angle, bulletSpd, faction);
 }
 
 move_wrap(true,true,sprite_width/2);

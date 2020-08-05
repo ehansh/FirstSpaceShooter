@@ -1,0 +1,2 @@
+/// @desc 
+faction = factions.ally;
