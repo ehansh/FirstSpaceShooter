@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oRaider",
     "eventList": [
-        
+        {
+            "id": "746390bc-4598-4b76-91ca-6a44bb08649f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "803a49b9-4900-4765-897d-f0e764f7f07f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

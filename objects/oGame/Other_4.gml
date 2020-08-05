@@ -6,6 +6,9 @@ if(room == rGame){
 	//audio_play_sound(msc_song, 2, true);
 	
 	spawn_off_camera(oAsteroid,40)
+	spawn_off_camera(oRaider,8);
+	spawn_off_camera(oBrute,3);
+	spawn_off_camera(oHunter,5);
 	
 	alarm[0] = 60;
 }
