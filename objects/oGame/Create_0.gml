@@ -11,3 +11,12 @@ enum factions {
 	ally,
 	enemy
 }
+
+enum power_ups{
+	double,
+	triple,
+	quad,
+	five,
+	laser,
+	shield
+}

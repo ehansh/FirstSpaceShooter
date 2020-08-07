@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "94ec0d3e-99f5-47e9-9273-1d236d5cfc49",
+            "Value": {
+                "id": "5be24801-ab1c-49f6-93c8-b240f703a20f",
+                "resourcePath": "sprites\\spr_ship_powerups_strip6\\spr_ship_powerups_strip6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "960e6972-ec5d-4684-b6ee-d20515bd0b10",
             "Value": {
                 "id": "e5060bed-59ac-4e37-86bc-a9cd3191f4cb",
@@ -383,6 +391,14 @@
             }
         },
         {
+            "Key": "b36c7167-7c8f-42aa-86d4-1f6b49f4149b",
+            "Value": {
+                "id": "01f5cfa5-916f-4131-a53f-d3929cb7ddf2",
+                "resourcePath": "scripts\\initialize_bullet\\initialize_bullet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b96a6bd5-a155-421f-b489-fddd2eec7a37",
             "Value": {
                 "id": "36eca7c0-9838-4668-ab53-5f752693f49c",
@@ -420,6 +436,14 @@
                 "id": "45c73552-d776-4b09-a28b-8e9b84fadf74",
                 "resourcePath": "sprites\\spr_background\\spr_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cb280f32-63cb-49d5-a13b-7ce0ad21815f",
+            "Value": {
+                "id": "5ca3c8d3-986f-4c38-b9d0-767c93c75f7a",
+                "resourcePath": "sounds\\snd_laser\\snd_laser.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -479,11 +503,27 @@
             }
         },
         {
+            "Key": "e7fccda1-0b2b-46bf-98bb-4c014bcfc77e",
+            "Value": {
+                "id": "a85b5697-4fbb-46e3-bb7d-b64ba5e774df",
+                "resourcePath": "objects\\oPowerUp\\oPowerUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ed853086-9476-4db3-af74-ccab36ed7dc4",
             "Value": {
                 "id": "fa804d0b-51c8-438f-b1ce-84e70011f78f",
                 "resourcePath": "views\\ed853086-9476-4db3-af74-ccab36ed7dc4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "efa2f710-20e9-4f09-a94d-2181c8c55ec5",
+            "Value": {
+                "id": "6339946a-9047-4d11-84f2-1e08c638db51",
+                "resourcePath": "sprites\\spr_powerup_strip6\\spr_powerup_strip6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -545,7 +585,8 @@
     ],
     "script_order": [
         "d76af7f1-3e18-42b9-9ad0-3438631af0f3",
-        "7df67953-ae97-43ff-9fe1-bfaf27e15b08"
+        "7df67953-ae97-43ff-9fe1-bfaf27e15b08",
+        "b36c7167-7c8f-42aa-86d4-1f6b49f4149b"
     ],
     "tutorial": ""
 }
