@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "780d6ad7-3e20-4cfc-a7c7-a3bec85a554f",
+            "Value": {
+                "id": "fa855b10-cc84-428d-87c9-4b185779bd36",
+                "resourcePath": "objects\\oLaser\\oLaser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "79e1ae7e-0bed-464d-af29-cc1b25067584",
             "Value": {
                 "id": "0b4fff6e-cfa1-48cb-92c6-9e8f246a31e6",

@@ -12,7 +12,7 @@ var _inst = argument[3]
 
 with (_inst){
 	direction = _dir;
-	speed = _speed;
+	if(object_index == oBullet) speed = _speed;
 	faction = _faction;
 	creator = _creator;
 	
